@@ -1,0 +1,19 @@
+html {
+  height: 50%;
+  background-color: whitesmoke;
+}
+html > body {
+  height: 100%;
+  background-color: #0a192f;
+}
+#filler {
+  background-color: gray;
+}
+#text-white {
+  color: azure;
+}
+
+.coba:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
